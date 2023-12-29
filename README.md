@@ -6,8 +6,6 @@
 ## Authors
 
 - Rany KARDOUS GR06
-- Karim BENDCHICHE GR06
-- Alexandra GAUTIER GR06
 
 ## Table des Matières
 - [Accueil](#accueil)
